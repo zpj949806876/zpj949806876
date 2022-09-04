@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm zpj, a full-time full-stack freelance developer 👨‍💻 working remotely since 2019 🚀</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning java and Python  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to java stack and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
@@ -104,7 +104,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=zpj949806876&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
